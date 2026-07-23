@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 venv/
-.env
-
 # Model binaries (optional: remove if you want .pkl files on GitHub)
 *.pkl
+.env
